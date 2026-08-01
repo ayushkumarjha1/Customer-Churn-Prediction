@@ -45,16 +45,21 @@ A complete, production-ready Machine Learning system to predict customer churn u
 
 ## 📸 Dashboard Screenshots
 
-### 1. Home & Overview Dashboard
+### 1. Home & Overview
 The landing page provides an immediate overview of the dataset. It features key metrics (Total Customers, Churn Rate, Total Revenue) ensuring business stakeholders can quickly digest the current state of customer retention.
 ![Home Dashboard](images/dashboard_home.png)
 
-### 2. Single Customer Prediction Form
-An intuitive, comprehensive input form categorized into Demographics, Services, and Account Details. This allows support agents to input a specific customer's profile in real-time.
-![Prediction Input](images/dashboard_predict_1.png)
-![Prediction Input Extended](images/dashboard_predict_2.png)
+### 2. Dataset Dashboard & EDA
+A deep dive into the dataset directly within the application. It includes a raw data overview alongside interactive Plotly visualizations (Pie Charts, Bar Charts, and a comprehensive Correlation Heatmap) to uncover hidden patterns in customer behavior before running any predictions.
+![Dataset Overview](images/dashboard_data_1.png)
+![Dataset Distributions](images/dashboard_data_2.png)
+![Correlation Heatmap](images/dashboard_data_3.png)
 
-### 3. Prediction Results & Risk Assessment
+### 3. Single Customer Prediction Form
+An intuitive, comprehensive input form categorized into Demographics, Services, and Account Details. This allows support agents to input a specific customer's profile in real-time.
+![Prediction Input 1](images/dashboard_predict_1.png)
+![Prediction Input 2](images/dashboard_predict_2.png)
+
 After submission, the system evaluates the profile using the Gradient Boosting model and outputs a clear Risk Score, Probability, and tailored Business Actions to help retain the customer.
 ![Prediction Result](images/dashboard_predict_result.png)
 
