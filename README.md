@@ -43,6 +43,34 @@ A complete, production-ready Machine Learning system to predict customer churn u
    streamlit run app.py
    ```
 
+## 📸 Dashboard Screenshots
+
+*(Note: Replace the images in the `images/` folder with your actual dashboard screenshots to make them appear here!)*
+
+**Home & Overview Dashboard**
+![Home Dashboard](images/dashboard_home.png)
+
+**Interactive Predictions**
+![Prediction Page](images/dashboard_predict.png)
+
+---
+
+## 📊 Model Performance Highlights
+
+Here are the evaluation plots generated automatically by our best-performing model (Gradient Boosting):
+
+### 1. Feature Importance
+This chart reveals the most critical factors influencing whether a customer will churn or stay.
+![Feature Importance](images/feature_importance.png)
+
+### 2. Receiver Operating Characteristic (ROC) Curve
+Demonstrates the high predictive accuracy (AUC) of the chosen model.
+![ROC Curve](images/roc_curve.png)
+
+### 3. Confusion Matrix
+Visual breakdown of the model's True Positives, True Negatives, False Positives, and False Negatives.
+![Confusion Matrix](images/confusion_matrix.png)
+
 ## 📁 Project Structure
 
 ```
