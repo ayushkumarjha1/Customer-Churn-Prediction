@@ -1,0 +1,74 @@
+
+/* General Theme */
+.stApp {
+    background-color: #f4f6f9;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #ffffff;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+}
+
+/* Metric Cards */
+div[data-testid="metric-container"] {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border-top: 4px solid #4e73df;
+    transition: transform 0.2s ease-in-out;
+}
+
+div[data-testid="metric-container"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+/* Prediction Cards */
+.prediction-card-stay {
+    background: linear-gradient(135deg, #1cc88a 0%, #13855c 100%);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(28, 200, 138, 0.4);
+    animation: fadeIn 0.5s;
+}
+
+.prediction-card-churn {
+    background: linear-gradient(135deg, #e74a3b 0%, #be2617 100%);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(231, 74, 59, 0.4);
+    animation: fadeIn 0.5s;
+}
+
+/* Typography */
+h1, h2, h3 {
+    color: #2c3e50;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(90deg, #4e73df 0%, #224abe 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(78, 115, 223, 0.4);
+    color: white;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
