@@ -50,9 +50,18 @@ The landing page provides an immediate overview of the dataset. It features key 
 ![Home Dashboard](images/dashboard_home.png)
 
 ### 2. Dataset Dashboard & EDA
-A deep dive into the dataset directly within the application. It includes a raw data overview alongside interactive Plotly visualizations (Pie Charts, Bar Charts, and a comprehensive Correlation Heatmap) to uncover hidden patterns in customer behavior before running any predictions.
+A deep dive into the dataset directly within the application. It includes a raw data overview alongside interactive Plotly visualizations to uncover hidden patterns in customer behavior before running any predictions.
+
+**Data Overview:** A raw tabular view of the dataset.
 ![Dataset Overview](images/dashboard_data_1.png)
+
+**Categorical Distributions:** Visualizing churn breakdown by contract type and overall distribution.
 ![Dataset Distributions](images/dashboard_data_2.png)
+
+**Numerical Distributions:** Histograms showing how Monthly Charges and Tenure affect customer retention.
+![Numerical Distributions](images/dashboard_data_4.png)
+
+**Correlation Heatmap:** Identifying multicollinearity and feature relationships.
 ![Correlation Heatmap](images/dashboard_data_3.png)
 
 ### 3. Single Customer Prediction Form
