@@ -1,5 +1,8 @@
 # Customer Churn Prediction System 🔮
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge&logo=streamlit)](https://ayushkumarjha1-customer-churn-prediction-app-axgcxh.streamlit.app/)
+
+
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-FF4B4B)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4.0-F7931E)
