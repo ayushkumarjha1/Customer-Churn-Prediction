@@ -1,24 +1,7 @@
 # ChurnIQ 🚀
 **AI-Powered Customer Retention Intelligence Platform**
 
-
-
-
 ChurnIQ is a premium B2B SaaS application that uses machine learning and explainable AI to identify customers at risk of leaving and turns predictions into actionable retention strategies.
-
-## 🌟 Features
-- **Predictive Analytics:** Uses a highly accurate Gradient Boosting model to estimate churn probability.
-- **Explainable AI (SHAP):** Understand *why* a customer is at risk with feature importance breakdowns.
-- **Customer Intelligence:** Searchable, filterable dashboard of your customer base.
-- **Retention Simulator:** Interactive "What If" scenarios to estimate retained revenue after intervention.
-- **AI Copilot:** Dedicated assistant for customer health queries and retention strategy generation.
-
-## 🏗️ Architecture
-ChurnIQ is built on a modern, decoupled SaaS architecture:
-- **Frontend:** Next.js (React), Tailwind CSS, TypeScript.
-- **Backend:** FastAPI (Python), SQLAlchemy (SQLite).
-- **Machine Learning:** Scikit-Learn, pandas, NumPy, SHAP, Joblib.
-
 
 ## 📸 ChurnIQ Interface
 
@@ -37,6 +20,18 @@ ChurnIQ is built on a modern, decoupled SaaS architecture:
 ### 5. Retention Simulator
 ![Simulator](images/churniq_simulator.png)
 
+## 🌟 Features
+- **Predictive Analytics:** Uses a highly accurate Gradient Boosting model to estimate churn probability.
+- **Explainable AI (SHAP):** Understand *why* a customer is at risk with feature importance breakdowns.
+- **Customer Intelligence:** Searchable, filterable dashboard of your customer base.
+- **Retention Simulator:** Interactive "What If" scenarios to estimate retained revenue after intervention.
+- **AI Copilot:** Dedicated assistant for customer health queries and retention strategy generation.
+
+## 🏗️ Architecture
+ChurnIQ is built on a modern, decoupled SaaS architecture:
+- **Frontend:** Next.js (App Router), Tailwind CSS, TypeScript, Recharts.
+- **Backend:** FastAPI (Python), SQLAlchemy (SQLite).
+- **Machine Learning:** Scikit-Learn, pandas, NumPy, SHAP, Joblib.
 
 ## 🚀 Getting Started
 
