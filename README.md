@@ -1,5 +1,8 @@
 # ChurnIQ 🚀
 **AI-Powered Customer Retention Intelligence Platform**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge&logo=streamlit)](https://ayushkumarjha1-customer-churn-prediction-app-axgcxh.streamlit.app/)
+
+
 
 ChurnIQ is a premium B2B SaaS application that uses machine learning and explainable AI to identify customers at risk of leaving and turns predictions into actionable retention strategies.
 
@@ -15,6 +18,32 @@ ChurnIQ is built on a modern, decoupled SaaS architecture:
 - **Frontend:** Next.js (React), Tailwind CSS, TypeScript.
 - **Backend:** FastAPI (Python), SQLAlchemy (SQLite).
 - **Machine Learning:** Scikit-Learn, pandas, NumPy, SHAP, Joblib.
+
+
+## 📸 Project Dashboards & Visualizations
+
+### 1. Main Dashboard
+![Dashboard Home](images/dashboard_home.png)
+
+### 2. Dataset Analytics & Insights
+![Dataset Analytics 1](images/dashboard_data_1.png)
+![Dataset Analytics 2](images/dashboard_data_2.png)
+![Dataset Analytics 3](images/dashboard_data_3.png)
+![Dataset Analytics 4](images/dashboard_data_4.png)
+
+### 3. Customer Prediction UI
+![Prediction Input 1](images/dashboard_predict_1.png)
+![Prediction Input 2](images/dashboard_predict_2.png)
+![Prediction Result](images/dashboard_predict_result.png)
+
+### 4. Batch Prediction
+![Batch Prediction](images/dashboard_batch.png)
+
+### 5. ML Evaluation Metrics
+![Feature Importance](images/feature_importance.png)
+![ROC Curve](images/roc_curve.png)
+![Confusion Matrix](images/confusion_matrix.png)
+
 
 ## 🚀 Getting Started
 
