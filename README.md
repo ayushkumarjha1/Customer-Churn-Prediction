@@ -1,5 +1,8 @@
 # ChurnIQ 🚀
 **AI-Powered Customer Retention Intelligence Platform**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge&logo=streamlit)](https://ayushkumarjha1-customer-churn-prediction-app-axgcxh.streamlit.app/)
+
+
 
 ChurnIQ is a premium B2B SaaS application that uses machine learning and explainable AI to identify customers at risk of leaving and turns predictions into actionable retention strategies.
 
