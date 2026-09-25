@@ -1,7 +1,7 @@
 # ChurnIQ 🚀
 **AI-Powered Customer Retention Intelligence Platform**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge&logo=streamlit)](https://ayushkumarjha1-customer-churn-prediction-app-axgcxh.streamlit.app/)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fayushkumarjha1%2FCustomer-Churn-Prediction&root-directory=ChurnIQ%2Ffrontend)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-black?style=for-the-badge&logo=vercel)](https://churniq-app.vercel.app/)
+
 
 
 
