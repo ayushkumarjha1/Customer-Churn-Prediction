@@ -20,29 +20,22 @@ ChurnIQ is built on a modern, decoupled SaaS architecture:
 - **Machine Learning:** Scikit-Learn, pandas, NumPy, SHAP, Joblib.
 
 
-## 📸 Project Dashboards & Visualizations
+## 📸 ChurnIQ Interface
 
-### 1. Main Dashboard
-![Dashboard Home](images/dashboard_home.png)
+### 1. Premium Landing Page
+![Landing Page](images/churniq_landing.png)
 
-### 2. Dataset Analytics & Insights
-![Dataset Analytics 1](images/dashboard_data_1.png)
-![Dataset Analytics 2](images/dashboard_data_2.png)
-![Dataset Analytics 3](images/dashboard_data_3.png)
-![Dataset Analytics 4](images/dashboard_data_4.png)
+### 2. Authentication Flow
+![Login Screen](images/churniq_login.png)
 
-### 3. Customer Prediction UI
-![Prediction Input 1](images/dashboard_predict_1.png)
-![Prediction Input 2](images/dashboard_predict_2.png)
-![Prediction Result](images/dashboard_predict_result.png)
+### 3. Executive Dashboard (with Recharts)
+![Dashboard](images/churniq_dashboard.png)
 
-### 4. Batch Prediction
-![Batch Prediction](images/dashboard_batch.png)
+### 4. Customer Intelligence Table
+![Customers](images/churniq_customers.png)
 
-### 5. ML Evaluation Metrics
-![Feature Importance](images/feature_importance.png)
-![ROC Curve](images/roc_curve.png)
-![Confusion Matrix](images/confusion_matrix.png)
+### 5. Retention Simulator
+![Simulator](images/churniq_simulator.png)
 
 
 ## 🚀 Getting Started
